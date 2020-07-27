@@ -1,0 +1,32 @@
+.content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    min-height: 366px;
+    margin-top: 30px;
+    background-color: #FBDFDB;
+    border-radius: 30px;
+    align-items: center;
+}
+.content-text {
+    width: 316px;
+    height: auto;
+    position: relative;
+    margin-left: 70px;
+}
+.content-text h1 {
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 58px;
+}
+.content-text p {
+    opacity: 90%;
+    font-size: 18px;
+    font-weight: 300;
+}   
+.content-img {
+    margin-top: 60px;
+    margin-right: 80px;
+    position: relative;
+    text-align: center;
+}
